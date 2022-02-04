@@ -33,13 +33,15 @@
         "id": 6,
 		"name": "Hayley Ellison",
 		"country": "Spain",
-		"company": "Consequat Lectus Sit Incorporated"
+		"company": "Consequat Lectus Sit Incorporated",
+        "reportTo": "Theodore Henry"
 	},
 	{
         "id": 7,
 		"name": "Maile Hahn",
 		"country": "India",
-		"company": "Non Quam Pellentesque Institute"
+		"company": "Non Quam Pellentesque Institute",
+        "reportTo": "Theodore Henry"
 	},
 	{
         "id": 8,
@@ -57,13 +59,15 @@
         "id": 10,
 		"name": "Lareina Lang",
 		"country": "South Korea",
-		"company": "Ut Foundation"
+		"company": "Ut Foundation",
+        "reportTo": "James Mile"
 	},
 	{
         "id": 11,
 		"name": "Merrill Landry",
 		"country": "South Korea",
-		"company": "Ut Dolor Limited"
+		"company": "Ut Dolor Limited",
+        "reportTo": "James Mile"
 	},
 	{
         "id": 12,
@@ -87,7 +91,8 @@
         "id": 15,
 		"name": "Bert Pope",
 		"country": "Turkey",
-		"company": "Ut Foundation"
+		"company": "Ut Foundation",
+        "reportTo": "Bogdan Aliyev"
 	},
 	{
         "id": 16,
@@ -305,15 +310,15 @@
 	{
         "id": 51,
 		"name": "Hollee Ochoa",
-		"work": "Quisque Corp.",
+		"work": "Massa Industries",
         "gender": "male"
 
 	},
 	{
         "id": 52,
 		"name": "Hilel L. Hansen",
-		"work": "Lacus Mauris Non Inc.",
-        "gender": "male"
+        "gender": "male",
+        "work": "Massa Industries"
 	},
 	{
         "id": 53,

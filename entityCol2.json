@@ -15,13 +15,15 @@
         "id": 3,
 		"name": "Hayley Ellison",
 		"domicile": "Spain",
-		"company": "Consequat Lectus Sit Incorporated"
+		"company": "Consequat Lectus Sit Incorporated",
+		"manager": "Theodore Henry"
 	},
 	{
         "id": 4,
 		"name": "Maile Hahn",
 		"company": "Non Quam Pellentesque Institute",
-		"gender": "female"
+		"gender": "female",
+		"manager": "Theodore Henry"
 		
 	},
 	
@@ -35,13 +37,15 @@
         "id": 6,
 		"name": "Bert Pope",
 		"domicile": "Turkey",
-		"company": "Ut Foundation"
+		"company": "Ut Foundation",
+		"manager": "Bogdan Aliyev"
 	},
 	{
         "id": 7,
 		"name": "Lesley Jones",
 		"domicile": "Italy",
 		"company": "Ut Foundation"
+
 	},
 	{
         "id": 8,
@@ -399,5 +403,231 @@
 		"name": "Aimee Cain",
 		"employer": "Metus Corp.",
 		"country": "France"
+	},
+	{
+		"id": 67,
+		"name": "Nelle Anderson",
+		"employer": "Ac Facilisis Institute",
+		"manager": "Ryan Trujillo"
+	},
+	{
+		"id": 68,
+		"name": "Iola Simmons",
+		"employer": "Quam A Felis Limited",
+		"manager": "Justin Jackson"
+	},
+	{
+		"id": 69,
+		"name": "Irma Gamble",
+		"employer": "Massa LLC",
+		"manager": "Brock Sweet"
+	},
+	{
+		"id": 70,
+		"name": "Yael Shelton",
+		"employer": "Magna A Tortor Foundation",
+		"manager": "Alan Sherman"
+	},
+	{
+		"id": 71,
+		"name": "Chanda Russell",
+		"employer": "Mi Institute",
+		"manager": "Kirk Kelly"
+	},
+	{
+		"id": 72,
+		"name": "Pamela Jensen",
+		"employer": "Quisque Associates",
+		"country": "Spain",
+		"manager": "Clinton Ramos"
+	},
+	{
+		"id": 73,
+		"name": "Jemima Morris",
+		"employer": "Ultrices Mauris LLC",
+		"country": "Spain",
+		"manager": "Abel Saunders"
+	},
+	{
+		"id": 74,
+		"name": "Aurora Ewing",
+		"employer": "Adipiscing Lobortis Risus LLC",
+		"country": "Spain",
+		"manager": "Boris Fulton"
+	},
+	{
+		"id": 75,
+		"name": "Virginia Greene",
+		"employer": "Nunc Mauris Foundation",
+		"manager": "Paki Maddox"
+	},
+	{
+		"id": 76,
+		"name": "Lesley Mcgee",
+		"employer": "Erat Eget Foundation",
+		"manager": "Rahim Floyd"
+	},
+	{
+		"id": 77,
+		"name": "Kirestin Calderon",
+		"employer": "Ultrices Posuere Corp.",
+		"manager": "Rafael Martinez"
+	},
+	{
+		"id": 78,
+		"name": "Hanae Hamilton",
+		"employer": "Nunc Sed Libero Foundation",
+		"manager": "Mark Petty"
+	},
+	{
+		"id": 79,
+		"name": "Stacey Hall",
+		"employer": "Pharetra Quisque Ac Foundation",
+		"manager": "Jason Pratt"
+	},
+	{
+		"id": 80,
+		"name": "Cherokee Hendricks",
+		"employer": "Eu Eleifend Ltd",
+		"manager": "Reece Powell"
+	},
+	{
+		"id": 81,
+		"name": "Danielle Castillo",
+		"employer": "Sed Pede Corporation",
+		"manager": "Kaseem Todd"
+	},
+	{
+		"id": 82,
+		"name": "Rosalyn Shepard",
+		"employer": "Vitae Corporation",
+		"manager": "Hammett Pitts"
+	},
+	{
+		"id": 83,
+		"name": "Kelsey Cote",
+		"employer": "Massa Industries",
+		"county": "Estonia",
+		"manager": "Drake Watts"
+	},
+	{
+		"id": 84,
+		"name": "Dora Harrell",
+		"employer": "Quis Foundation",
+		"manager": "Dean Mccullough"
+	},
+	{
+		"id": 85,
+		"name": "Josephine Wallace",
+		"employer": "Nisl Maecenas LLP",
+		"manager": "Nigel Day"
+	},
+	{
+		"id": 85,
+		"name": "Xaviera Davis",
+		"employer": "Placerat Industries",
+		"manager": "Malik York"
+	},
+	{
+		"id": 85,
+		"name": "Pamela Mcdowell",
+		"employer": "Cras Foundation",
+		"manager": "Mannix Horton"
+	},
+	{
+		"id": 86,
+		"name": "Gail Lindsey",
+		"employer": "Nulla Inc.",
+		"manager": "Kenneth Williams"
+	},
+	{
+		"id": 87,
+		"name": "Meghan Reid",
+		"employer": "Nec Mauris Incorporated",
+		"manager": "Todd Castro"
+	},
+	{
+		"id": 88,
+		"name": "Mariam Anderson",
+		"employer": "Magna Incorporated",
+		"manager": "Zachery Peterson"
+	},
+	{
+		"id": 89,
+		"name": "Olga Hall",
+		"employer": "Cras Incorporated",
+		"manager": "Bert Davis"
+	},
+	{
+		"id": 90,
+		"name": "Joelle Estes",
+		"employer": "Purus In Institute",
+		"manager": "Talon Fitzgerald"
+	},
+	{
+		"id": 91,
+		"name": "Iola Huff",
+		"employer": "Nec Metus Facilisis Corporation",
+		"manager": "Herrod Lawson"
+	},
+	{
+		"id": 92,
+		"name": "Lila Yates",
+		"employer": "At Risus Inc.",
+		"manager": "Carlos Salazar"
+	},
+	{
+		"id": 93,
+		"name": "Kellie Le",
+		"employer": "Diam Industries",
+		"manager": "Alden Johns"
+	},
+	{
+		"id": 94,
+		"name": "Kathleen Stuart",
+		"employer": "Odio Vel Institute",
+		"manager": "Rigel Richard"
+	},
+	{
+		"id": 95,
+		"name": "Nerea Duffy",
+		"domicile": "Peru",
+		"manager": "Devin Hernandez",
+		"employer": "Etiam Vestibulum Massa LLP"
+	},
+	{
+		"id": 96,
+		"name": "Kirsten Spence",
+		"domicile": "Turkey",
+		"manager": "Russell Chan",
+		"employer": "Imperdiet Ullamcorper Institute"
+	},
+	{
+		"id": 97,
+		"name": "Sybill Bolton",
+		"domicile": "Austria",
+		"manager": "Gareth Mcdaniel",
+		"employer": "Dictum Ultricies Foundation"
+	},
+	{
+		"id": 98,
+		"name": "Nola Stokes",
+		"domicile": "Australia",
+		"manager": "Fuller Armstrong",
+		"employer": "Eu Foundation"
+	},
+	{
+		"id": 99,
+		"name": "Aimee Cain",
+		"domicile": "Vietnam",
+		"manager": "Macaulay Michael",
+		"employer": "Neque Pellentesque Limited"
+	},
+	{
+		"id": 100,
+		"name": "Amos Estes",
+		"domicile": "Vietnam",
+		"manager": "Mattis Institute",
+		"employer": "Neque Pellentesque Limited"
 	}
 ]
