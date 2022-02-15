@@ -612,5 +612,20 @@
 		"domicile": "Vietnam",
 		"manager": "Mattis Institute",
 		"employer": "Neque Pellentesque Limited"
+	},
+	{
+        "id": 201,
+		"name": "Statue of Liberty",
+		"artist": "Gustave Eiffel",
+		"location": "New York",
+		"year": 1875
+	},
+	
+	{
+        "id": 202,
+		"name": "Handmaid's Tale",
+        "country": "Canada",
+		"author": "Margaret Atwood",
+		"year": 1985
 	}
 ]

@@ -564,20 +564,21 @@
 	},
 	{
         "id": 98,
-		"name": "Molly Chapman",
-		"work": "A Institute"
+		"name": "Lady Liberty",
+		"artist": "Gustave Eiffel",
+		"city": "New York"
 	},
 	{
         "id": 99,
-		"name": "Lamar Hansen",
+		"name": "Buckingham Palace",
         "country": "UK",
-		"work": "Magnis Dis Parturient Corporation"
+		"owner": "British Monarcy"
 	}
     ,
 	{
         "id": 100,
-		"name": "Piper Q. Gay",
-        "county": "UK",
-		"work": "Est Ac Associates"
+		"name": "Handmaid's Tale",
+        "country": "Canada",
+		"author": "Margaret Atwood"
 	}
 ]
