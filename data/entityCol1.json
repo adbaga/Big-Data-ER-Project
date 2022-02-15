@@ -2,7 +2,7 @@
 	{
         "id": 1,
 		"name": "Malachi Johnston",
-		"country": "Ireland",
+		"location": "Ireland",
 		"company": "At Sem Incorporated"
 	},
 	{
@@ -26,13 +26,13 @@
 	{
         "id": 5,
 		"name": "Dorothy Yang",
-		"country": "Peru",
+		"location": "Peru",
 		"company": "Sed Id Industries"
 	},
 	{
         "id": 6,
 		"name": "Hayley Ellison",
-		"country": "Spain",
+		"location": "Spain",
 		"company": "Consequat Lectus Sit Incorporated",
         "reportTo": "Theodore Henry"
 	},
@@ -84,27 +84,27 @@
 	{
         "id": 14,
 		"name": "Honorato Conley",
-		"country": "Italy",
+		"location": "Italy",
 		"company": "Mollis Non Inc."
 	},
 	{
         "id": 15,
 		"name": "Bert Pope",
-		"country": "Turkey",
+		"location": "Turkey",
 		"company": "Ut Foundation",
         "reportTo": "Bogdan Aliyev"
 	},
 	{
         "id": 16,
 		"name": "Lesley Jones",
-		"country": "Italy",
+		"location": "Italy",
 		"company": "Ut Foundation"
 	},
 	{
         "id": 17,
 		"name": "Veda Nguyen",
 		"country": "Nigeria",
-		"company": "Pharetra Corp."
+		"corporation": "Pharetra Corp."
 	},
 	{
         "id": 18,
@@ -134,7 +134,7 @@
         "id": 22,
 		"name": "Molly Shields",
 		"country": "Italy",
-		"company": "Tincidunt Dui PC"
+		"corporation": "Tincidunt Dui PC"
 	},
 	{
         "id": 23,
@@ -146,7 +146,7 @@
         "id": 24,
 		"name": "Cassidy Nunez",
 		"country": "Pakistan",
-		"company": "Hendrerit Donec Corporation"
+		"corporation": "Hendrerit Donec Corporation"
 	},
 	{
         "id": 25,
@@ -200,7 +200,7 @@
         "id": 33,
 		"name": "Colby Becker",
 		"country": "Sweden",
-		"company": "Morbi Quis Corp."
+		"corporation": "Morbi Quis Corp."
 	},
 	{
         "id": 34,
@@ -539,8 +539,8 @@
 	},
 	{
         "id": 93,
-		"name": "Camille Watts",
-		"work": "A Dui PC"
+		"name": "Wojtek Kreseinski",
+		"work": "Urna Ut Ltd"
 	},
 	{
         "id": 94,
@@ -549,18 +549,21 @@
 	},
 	{
         "id": 95,
-		"name": "Dexter Cantrell",
-		"work": "Dui Quis Accumsan Corp."
+		"corpName": "Morbi Tristique Senectus Inc.",
+		"field": "agriculture"
 	},
 	{
         "id": 96,
-		"name": "Valentine I. Noble",
-		"work": "Eget Venenatis Industries"
+		"corpName": "Urna Ut Ltd",
+		"country": "Poland",
+		"CEO": "Wojtek Kreseinski"
 	},
 	{
         "id": 97,
-		"name": "Ira J. Bates",
-		"work": "Dolor Quam PC"
+		"corpName": "Egestas Rhoncus Limited",
+		"CEO": "Ryan Trujillo",
+		"field": "agriculture",
+		"headQuarter": "Santiago Chile"
 	},
 	{
         "id": 98,

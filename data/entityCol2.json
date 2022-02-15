@@ -107,7 +107,7 @@
         "id": 117,
 		"name": "Dante Leon",
 		"domicile": "China",
-		"company": "Nunc In Limited"
+		"corporation": "Nunc In Limited"
 	},
 	
 	{
@@ -330,7 +330,8 @@
 		"id": 155,
 		"empName": "Erasmus H. Cote",
 		"employer": "Urna Ut Ltd",
-		"country": "Poland"
+		"country": "Poland",
+		"manager": "Wojtek Kreseinski"
 	},
 	{
 		"id": 156,
@@ -402,7 +403,8 @@
 		"id": 167,
 		"name": "Nelle Anderson",
 		"employer": "Ac Facilisis Institute",
-		"manager": "Ryan Trujillo"
+		"manager": "Ryan Trujillo",
+		"position": "Agriculture Engineer"
 	},
 	{
 		"id": 168,
