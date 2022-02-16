@@ -1,5 +1,5 @@
 class Block:
-    def __init__(self, name, ep_E1, ep_E2): 
+    def __init__(self, name : str, ep_E1 : list, ep_E2 : list): 
         
         self.b_name = name
         self.ib1 = ep_E1
