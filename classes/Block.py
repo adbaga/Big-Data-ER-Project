@@ -9,4 +9,4 @@ class Block:
    
 
     def as_dict(self):
-        return {'block_name': self.b_name, 'int_b1': self.ib1, 'int_b1_size': len(self.ib1), 'int_b2': self.ib2, 'int_b2_size': len(self.ib2), 'b_cardin': self.b_cardinality, 'b_size': self.b_size}
+        return {'block_name': self.b_name, 'inner_b1': self.ib1, 'in_b1_size': len(self.ib1), 'inner_b2': self.ib2, 'in_b2_size': len(self.ib2), 'b_cardin': self.b_cardinality, 'b_size': self.b_size}

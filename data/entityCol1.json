@@ -476,7 +476,7 @@
 	},
 	{
         "id": 81,
-		"name": "Mason A. Spencer",
+		"name": "Mason Spencer",
 		"work": "Bibendum Ullamcorper LLC"
 	},
 	{
@@ -493,8 +493,9 @@
 	},
 	{
         "id": 84,
-		"name": "April L. Slater",
-		"work": "Mattis Ornare Incorporated"
+		"name": "April Łucja Slater",
+		"work": "Mattis Ornare Incorporated",
+		"country": "Poland"
 	},
 	{
         "id": 85,
